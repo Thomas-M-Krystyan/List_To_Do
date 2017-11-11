@@ -3,7 +3,7 @@
 ### Description:
 
 Simple Python script, which is being CRUD-type application. It's used to displaying<br>
-the list of tasks, adding a new task, edit existing task or delete existing task.
+the list of tasks, adding a new task, editing existing task or deleting existing task.
 
 ---
 ### Summary:

@@ -2,7 +2,8 @@
 
 ### Description:
 
-Simple Python script that helps out with overwhelming tasks for CodeCool programming school.
+Simple Python script, which is being CRUD-type application. It's used to displaying<br>
+the list of tasks, adding a new task, edit existing task or delete existing task.
 
 ---
 ### Summary:
@@ -18,6 +19,4 @@ Simple Python script that helps out with overwhelming tasks for CodeCool program
 - execute `.py` file
 
 >Linux
-- type `python3 [filename].py` 
-
-in the [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
+- type `python3 [filename].py` in the [CLI](https://en.wikipedia.org/wiki/Command-line_interface)

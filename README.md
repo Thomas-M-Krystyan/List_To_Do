@@ -7,9 +7,9 @@ Simple Python script that helps out with overwhelming tasks for CodeCool program
 ---
 ### Summary:
 
-|  Language  |  Paradigm  |  Category  |    Level     | Group project |    Date    |
-|:----------:|:----------:|:----------:|:------------:|:-------------:|:----------:|
-|   Python   | Procedural |  Program   |   Beginner   |       -       | 01.12.2016 |
+|  Language  | Version | Frameworks | Version |  Paradigm  |  Category  |    Level     | Group project | Code freeze |
+|:----------:|:-------:|:----------:|:-------:|:----------:|:----------:|:------------:|:-------------:|:-----------:|
+|   Python   |  3.5.2  |     -      |    -    | Procedural |  Program   |   Beginner   |       -       |  01.12.2016 |
 
 ---
 ### Run:
@@ -18,4 +18,6 @@ Simple Python script that helps out with overwhelming tasks for CodeCool program
 - execute `.py` file
 
 >Linux
-- type `python3 [filename].py` in the [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
+- type `python3 [filename].py` 
+
+in the [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
